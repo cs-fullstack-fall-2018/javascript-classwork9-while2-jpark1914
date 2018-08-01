@@ -12,3 +12,11 @@ function password(){
 }
 
 main();
+
+/*
+
+	KEY: This looks good, but where are your comments?!
+
+	Also, get in the habit of using '===' to test for equality and '!==' to test for inequality.
+
+*/
